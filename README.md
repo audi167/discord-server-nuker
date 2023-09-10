@@ -1,7 +1,7 @@
 # Discord Server NukeBot
 
 
-RIPPER Premium is a simple nodejs based Discord Nuke bot with various UHQ commands to destroy a Discord server. It is easy to use and does not require any programming knowledge.
+RIPPER Premium is a simple nodejs open-src based Discord Nuke bot with various UHQ commands to destroy a Discord server. It is easy to use and does not require any programming knowledge.
 
 ---
 
@@ -32,3 +32,8 @@ RIPPER Premium is a simple nodejs based Discord Nuke bot with various UHQ comman
 To provide you with such content we need your support, so watching ads is mandatory to get the download. So just click through and you are done! You can access the  [Download](https://onepiecered.co/s?dlJi) here!
 
 ---
+
+This tool is for educational purposes only, we are not responsible for what is done with this tool.
+
+---
+
